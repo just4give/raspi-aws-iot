@@ -1,6 +1,8 @@
 # raspi-aws-iot
 Communicate between two Raspberry Pi through AWS IoT
 
+![ezgif com-add-text](https://user-images.githubusercontent.com/9275193/51079601-dde29e80-1697-11e9-99a1-a1aa05d2c7f6.gif)
+
 
 ### Install GPIO library 
 ```
