@@ -3,6 +3,8 @@ Communicate between two Raspberry Pi through AWS IoT
 
 ![ezgif com-add-text](https://user-images.githubusercontent.com/9275193/51079601-dde29e80-1697-11e9-99a1-a1aa05d2c7f6.gif)
 
+### Configure AWS IoT Thing
+Watch my youtube video for step by step instruction to create IoT thing and connect to it from Raspberry Pi
 
 ### Install GPIO library 
 ```
