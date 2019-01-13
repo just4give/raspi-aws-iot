@@ -18,6 +18,13 @@ sudo apt-get -y install python-dev python3-rpi.gpio
 pip3 install AWSIoTPythonSDK
 ```
 
+### Diagram of First Raspberry Pi
+![image](https://github.com/just4give/raspi-aws-iot/blob/master/led.png)
+
+
+### Diagram of Second Raspberry Pi
+![image](https://github.com/just4give/raspi-aws-iot/blob/master/button.png)
+
 ### Run LED code on First Raspberry Pi
 ```
 python3 iot-led.py
