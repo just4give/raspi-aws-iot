@@ -36,7 +36,7 @@ clientId="mypythoncodeled"
 thingName="LED"
 myAWSIoTMQTTShadowClient = AWSIoTMQTTShadowClient(clientId)
 myAWSIoTMQTTShadowClient.configureEndpoint("a2c6vtfn7g8m57-ats.iot.us-east-1.amazonaws.com", 8883)
-myAWSIoTMQTTShadowClient.configureCredentials("root-CA.crt", "LED.private.key", "LED.cert.pem")
+myAWSIoTMQTTShadowClient.configureCredentials("root-CA.pem", "LED-private.pem.key", "LED.pem.crt")
 
 # Connect to AWS IoT
 myAWSIoTMQTTShadowClient.connect()
