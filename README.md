@@ -9,6 +9,9 @@ Communicate between two Raspberry Pi through AWS IoT
 ### Configure AWS IoT Thing
 Watch my youtube video for step by step instruction to create IoT thing and connect to it from Raspberry Pi
 
+https://youtu.be/MCXXoyV_j4w
+
+
 
 ### Thing Policy
 ```
