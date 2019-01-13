@@ -29,7 +29,7 @@ pip3 install AWSIoTPythonSDK
 ```
 python3 iot-led.py
 ```
-### Run LED code on Second Raspberry Pi
+### Run Button code on Second Raspberry Pi
 ```
 python3 iot-button.py
 ```
